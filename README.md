@@ -18,15 +18,14 @@ Key Features:<br>
 
 <br><h3>Application's UI Screenshots</h3><br>
 
-<p><img src="EcoCollector Screenshots/Screenshot_20241014_205847.jpg" width="300"/>&ensp; &ensp;
-<img src="EcoCollector Screenshots/Screenshot_20241014_205858.jpg" width="300" />&ensp; &ensp;
-<img src="EcoCollector Screenshots/Screenshot_20241014_210056.jpg" width="300" />&ensp; &ensp;
-<img src="EcoCollector Screenshots/Screenshot_20241014_210114.jpg" width="300" />&ensp; &ensp;
-<img src="EcoCollector Screenshots/Screenshot_20241014_210204.jpg" width="300" />&ensp; &ensp;
-<img src="EcoCollector Screenshots/Screenshot_1728924908.png" width="300" />&ensp; &ensp;
-<img src="EcoCollector Screenshots/Screenshot_1728924961.png" width="300" />&ensp; &ensp;
-<img src="EcoCollector Screenshots/Screenshot 2024-10-14 214453.png" width="300" />&ensp; &ensp;
-<img src="EcoCollector Screenshots/Screenshot 2024-10-14 214640.png" width="300" /></p>
+<p><img src="EcoCollector Screenshots/Picture1.jpg" width="300"/>&ensp; &ensp;
+<img src="EcoCollector Screenshots/Picture2.jpg" width="300" />&ensp; &ensp;
+<img src="EcoCollector Screenshots/Picture3.jpg" width="300" />&ensp; &ensp;
+<img src="EcoCollector Screenshots/Picture4.jpg" width="300" />&ensp; &ensp;
+<img src="EcoCollector Screenshots/Picture5.jpg" width="300" />&ensp; &ensp;
+<img src="EcoCollector Screenshots/Picture6.jpg" width="300" />&ensp; &ensp;
+<img src="EcoCollector Screenshots/Picture7.jpg" width="300" />&ensp; &ensp;
+<img src="EcoCollector Screenshots/Picture8.jpg" width="300" /></p>
 
 ## Getting Started
 
