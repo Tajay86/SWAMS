@@ -1,10 +1,8 @@
 # EcoCollect
 
-A new Flutter project.<br>
--Firebase
-<br>
+Agriculture Baseed Project.<br>
 
-Smart Waste Management System for Urban Areas<br>
+Agricultural Smart Waste Management System for Urban Areas<br>
 
 Developed an intelligent system to streamline waste collection in urban environments. The solution monitors waste bin levels, manages collection schedules dynamically, and classifies waste into categories such as e-waste, plastic, and organic. Key features include the ability to request special collections, manage digital waste tracking devices, and integrate a coin-based rewards system for users.<br>
 
@@ -14,7 +12,6 @@ Key Features:<br>
 -Special waste collection requests for large or unique items.<br>
 -Waste categorization for better recycling (e-waste, plastic, organic).<br>
 -Digital waste tracking to improve collection accuracy.<br>
--Coin-based rewards system replacing the traditional cash payment method.<br>
 
 <br><h3>Application's UI Screenshots</h3><br>
 
